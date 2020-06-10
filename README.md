@@ -1,5 +1,5 @@
 # Approzium Docs
-This is the documentation for the [Approzium](https://github.com/approzium/approzium) project.
+This is the code for [approzium.org](https://approzium.org) which documents the [Approzium](https://github.com/approzium/approzium) project.
 
 
 ## Development
