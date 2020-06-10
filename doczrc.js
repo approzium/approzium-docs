@@ -4,7 +4,8 @@ export default {
     'Overview',
     'Getting Started',
     'Architecture',
-    'Examples'
+    'Examples',
+    'Compatibility'
   ],
   ignore: [
     'README.md'
