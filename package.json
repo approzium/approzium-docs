@@ -21,7 +21,7 @@
   },
   "dependencies": {
     "docz": "^2.0.0-rc.76",
-    "gatsby": "^2.23.3",
+    "gatsby": "^4.25.7",
     "gatsby-plugin-offline": "^2.2.7",
     "gatsby-plugin-sharp": "^2.6.11",
     "gatsby-theme-docz": "latest",
